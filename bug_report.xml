@@ -1,0 +1,13 @@
+<bug_report_structure>
+    summary
+    project
+    component
+    version
+    severity
+    priority
+    steps to reproduce
+    actual result
+    expected result
+    additional information
+  </bug_report_structure>
+  
