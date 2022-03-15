@@ -1,5 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <information_about_yourself>
-	<Full_name> Kiselev Aleksandr Viktorovich</Full_name>
+	<full_name> Kiselev Aleksandr Viktorovich</full_name>
 	<age>32</age>
 	<number_of_pets>1</number_of_pets>
 	<future_desired_salary>1500</future_desired_salary>
